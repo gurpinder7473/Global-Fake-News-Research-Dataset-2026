@@ -5,5 +5,5 @@
 pip install -r requirements.txt
 streamlit run app.py
 
-## Deploy
-Upload this folder to Streamlit Cloud and deploy directly.
+## Link
+https://app-profile-analyzer-mglwzo9ugeg3dex6nwptn6.streamlit.app/
